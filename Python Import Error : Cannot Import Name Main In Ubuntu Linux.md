@@ -14,7 +14,7 @@ python -m pip uninstall pip
 python3 -m pip uninstall pip
 ```
 2. **实验结果图展示**:
- ![实验结果图](https://github.com/xdnh/Linux-Learning/raw/master/src/Screenshot%20from%202018-05-14%2015-26-32.png)
+>![实验结果图](https://github.com/xdnh/Linux-Learning/raw/master/src/Screenshot%20from%202018-05-14%2015-26-32.png)
 ### **参考网址**
 [Python Import Error : Cannot Import Name Main In Ubuntu Linux]()
 ### **尝试过的方案**
