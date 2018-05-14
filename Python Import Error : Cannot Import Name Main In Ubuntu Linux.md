@@ -3,7 +3,7 @@
 发生 ImportError: cannot import name 'main'的问题，他报错的文件是在usr/bin/pip 的，之后就进入到那个路径下,打开对应文件。
 
 ### **首先直接说解决方案**
-**思路**：
+1. **思路**：
 > 卸载pip(10.0.1)版本，恢复之前版本(8.1.1)
 - pip2:
 ```Python
@@ -13,7 +13,8 @@ python -m pip uninstall pip
 ```Python
 python3 -m pip uninstall pip
 ```
-！[实验结果图]()
+2. **实验结果图展示**:
+![实验结果图](https://github.com/xdnh/Linux-Learning/raw/master/src/Screenshot%20from%202018-05-14%2015-26-32.png)
 ### **参考网址**
 [Python Import Error : Cannot Import Name Main In Ubuntu Linux]()
 ### **尝试过的方案**
