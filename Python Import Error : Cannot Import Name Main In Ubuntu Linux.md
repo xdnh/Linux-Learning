@@ -1,6 +1,6 @@
 ##  ubuntu 下更新pip后发生 ImportError: cannot import name 'main'的问题解决
 今天工作需要用python2的环境，由于安装的是pip 8的版本，好奇心（手贱。。。）pip版本有些低就随手将将pip更新了，刚新到pip 10版本的，没想到刚更新完就报错了，
-发生 ImportError: cannot import name 'main'的问题，他报错的文件是在usr/bin/pip 的，之后就进入到那个路径下,打开对应文件。
+发生 ImportError: cannot import name 'main'的问题，他报错的文件是在usr/bin/pip 的，之后就进入到那个路径下,打开对应文件,照着google上的方案挨个试了一遍，都不好使，还是不要随便更新啊。。。（我只想吃点蜂蜜，没想到捅了马蜂窝）
 
 ### **首先直接说解决方案**
 1. **思路**：
