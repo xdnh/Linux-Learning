@@ -15,7 +15,7 @@
   else:
     return false
   ```
- 或者
+> 或者
  ```python
   import os
   from PIL import Image
